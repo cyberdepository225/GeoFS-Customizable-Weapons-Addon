@@ -1,12 +1,5 @@
-"GAU-8 Avenger": {
-    fireMode: "hold",
-    sound: {
-        url: "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/gau8_sound.mp3",
-        loop: true,
-        volume: 0.9
-    },
-    recoil: {
-        enabled: true,
-        forceFactor: 0.25
-    }
+"Airburst Missile": {
+    url: "https://raw.githubusercontent.com/USERNAME/repo/main/airburst.mp3",
+    loop: false,
+    volume: 1.0
 }
