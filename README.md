@@ -1,1 +1,2 @@
-This repo used to be for many experimental addons, but now it is used for a particular addon that is the main course now.
+This repo used to be for many experimental addons, but now it is used for a particular addon that is the main course now. This addon lets you select one out of 5 weapons noises. You can add more. To do that, just paste in the modular section provided and add your own Github link to the mp3 file for the sound. Also set the volume(must be 1 or less) and make sure to keep syntax nicely. You can change the keybind(standard is I key).
+I made this with extensive ChatGPT help, so if you have any problems with this addon(syntax or trying to add a new file), just go to ChatGPT and ask IT to help you.
